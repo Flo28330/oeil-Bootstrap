@@ -1,0 +1,43 @@
+
+	body
+	{
+		padding-top: 20px;
+		padding-bottom: 20px;
+		background-repeat: repeat;
+		background-color: #00000;
+	}
+
+	[class*="col-"], footer {
+		padding: 40px;
+    border-style: solid;
+    border-color: white;
+		line-height: 20px;
+		text-align: center;
+	}
+
+	.fond_neutre
+	{
+		padding: 10px;
+		background-color: #00000;
+	}
+
+	.noir
+	{
+		background-color:black;
+	}
+
+	.noir2
+	{
+		background-color: black;
+	}
+
+	.orange
+	{
+		background-color: orange;
+	}
+
+	.jaune
+	{
+		background-color: yellow;
+}# oeil-Bootstrap
+quête WCS
